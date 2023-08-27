@@ -1,4 +1,9 @@
 
+---
+layout: page
+title: Chapter 1
+permalink: /Chapter 1/
+---
 
 # A Study On The Gospel of Matthew
 
